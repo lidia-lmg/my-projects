@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <meta charset="utf-8">
+        <head>
+            <link rel="sortcut icon" href="atomo.ico" type="image/ico" />
+            <meta http-equiv="refresh" content="60"/>
+            <title>Repositório Científico</title>
+            <body style="padding:40px">
+                <h1><p align="center">Repositório Científico</p></h1> 
+                <h2><p align="center">O seu site de artigos científicos</p></h2>
+                <p align="center"><img src="dna.jpg" width="50" alt="DNA"/></p>
+                <p>Para alunos de Iniciação Cientifica, lidar com sites e revistas cientificas é uma tarefa diária no seu cotidiano.  
+                    Atualmente existem muitos sites de revista cientifica, o que deixa muitos alunos perdidos pois não sabem quais os sites procurar os artigos.<br/>
+                    Este site visa agrupar todas essas revistas e sites científicos de busca em um só lugar para facilitar a vida do aluno.
+                    </p>
+                    <br/>
+                    <br/>
+                    
+                <a target = "blank" href="https://pubmed.ncbi.nlm.nih.gov/">
+                    <img src ="Pubmed.png" 
+                         width = "100" 
+                         alt="Pubmed" 
+                         title = "Pubmed"
+                    style  = "float:left; margin-right:10px; margin-top:15px ; border:1px solid #000; margin-bottom: 10px;"
+                      /></a>
+                      <p>PUBMED é uma base de dados de acesso público, criada e mantida pela Biblioteca Nacional de Medicina dos
+                        Estados Unidos (National Library of Medicine's – NLM) PUBMED - MEDLINE. <br/>
+                        Contém citações e resumos de periódicos, cobrindo mais de 16 milhões de registros.
+                    </p><br/><br/>
+                <a target = "blank" href="https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br/index.php?">
+                    <img src="CAPES.png" width="100" alt="Periodicos Capes"
+                    style = "float:left; margin-right: 10px; margin-top:10px; border: 1px solid #000; margin-bottom:10px"
+                    />
+                </a>
+                <p>O Portal de Periódicos, da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes), é uma biblioteca virtual que reúne e disponibiliza a instituições de ensino e pesquisa no Brasil o melhor da produção científica internacional.<br/> 
+                    Ele conta com um acervo de mais de 45 mil títulos com texto completo, bases referenciais, bases dedicadas exclusivamente a patentes, além de livros, enciclopédias e obras de referência, normas técnicas, estatísticas e conteúdo audiovisual.
+                </p><br/><br/>
+                
+                <a target="blank" href="https://scholar.google.com.br/?hl=pt">
+                    <img src = "Google.png" width="100" alt="Google Acadêmico"
+                    style = "float:left; margin-right: 10px; margin-top: 10px; border:1px solid #000; margin-bottom:10px"
+                    />
+                </a>
+                <p>O Google Acadêmico é uma ferramenta do Google que possibilita a localização de artigos, 
+                    teses, dissertações e outras publicações úteis para pesquisadores.</p> <br/><br/>
+
+                <a target="blank" href="https://www.nature.com/">   
+                    <img src="nature.png" width="100" alt="Nature"
+                    style = "float:left; margin-right:10px; margin-top: 10px; border: 1px solid #000; margin-bottom:10px"
+                    /> 
+                </a>
+                <p>Nature é uma revista científica interdisciplinar britânica, publicada pela primeira vez em 4 de novembro de 1869.
+                    Foi classificada a revista científica mais citada do mundo pela edição de 2010 do Journal Citation Reports, sendo amplamente considerada uma das poucas revistas acadêmicas remanescentes que publica pesquisas originais em uma ampla gama de campos científicos.</p> <br/><br/>
+
+                <a target="blank" href="https://www.scielo.org/">
+                    <img src ="scielo.jpg" width="100" alt="Scielo"
+                    style = "float:left; margin-right: 10px; margin-top:40px; border: 1px solid #000; margin-bottom:10px"
+                    ><br/><br/>
+                </a>
+                <p>O nome SciELO é uma sigla de Scientific Electronic Library Online. Trata-se de um portal eletrônico cooperativo de periódicos científicos. 
+                    Ou seja: através da SciELO permite-se o acesso eletrônico aos artigos completos de revistas da Argentina, do Brasil, do Chile, da Colômbia, de Cuba, da Costa Rica, da Venezuela, da Bolívia, do Peru e do Uruguai.
+                </p> <br/><br/>
+
+                <a target = "blank" href="https://www.sciencemag.org/">
+                    <img src ="science.png" width="100" alt ="Science"
+                    style = "float:left; margin-right: 10px; margin-top:33px; border: 1px solid #000; margin-bottom: 10px"                    
+                    ><br/>
+                </a>
+                <p>Amplamente referida como Science Magazine, é uma revista científica publicada pela Associação Americana para o Avanço da Ciência (em inglês: American Association for the Advancement of Science — AAAS),considerada, ao lado da Nature, uma das revistas acadêmicas mais prestigiadas do mundo.</p><br/><br/>
+
+                <a target="blank" href="https://www.sciencedirect.com/">
+                    <img src = "ScienceDirect.jpg" width="100" alt="Elsevier"
+                    style = "float:left; margin-right: 10px; margin-top: 33px; border: 1px solid #000; margin-bottom:10px"
+                    ><br/>
+                </a> 
+                <p>Elsevier é uma empresa editorial holandesa especializada em conteúdo científico, técnico e médico. É uma das seis empresas que domina a publicação científica no mundo inteiro.</p><br/><br/>
+                
+                <a target="blank" href="https://www.thelancet.com/">
+                    <img src="Thelancet.jpg" width="100" alt="The Lancet"
+                    style = "float:left; margin-right: 10px; margin-top:15px; border:1px solid #000; margin-bottom:10px"
+                    > 
+                </a>
+                <p>The Lancet é uma revista científica sobre medicina e com revisão por pares que é publicada semanalmente. 
+                    É uma das mais antigas e conhecidas revistas médicas do mundo e descrita como uma das mais prestigiadas.</p>
+
+                
+        
+            
+            </body>
+        </head>
+
+</html>
+            
+            
