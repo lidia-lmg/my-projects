@@ -5,6 +5,7 @@
             <link rel="sortcut icon" href="atomo.ico" type="image/ico" />
             <meta http-equiv="refresh" content="60"/>
             <title>Repositório Científico</title>
+         </head>
             <body style="padding:40px">
                 <h1><p align="center">Repositório Científico</p></h1> 
                 <h2><p align="center">O seu site de artigos científicos</p></h2>
@@ -87,7 +88,7 @@
         
             
             </body>
-        </head>
+       
 
 </html>
             
