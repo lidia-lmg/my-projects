@@ -1,0 +1,35 @@
+import java.util.Scanner;
+
+public class caixaRegistradora {
+
+	public static void main(String[] args) {
+		Scanner ler = new Scanner (System.in);
+
+	    double preco;
+	    double soma=0;
+	    double valRecebido;
+	    double troco;
+	    
+	    System.out.println("Digite o preço da mercadoria. \nCaso queira sair, digite 0. ");
+	    for (int i=0; ; i++){
+	      System.out.print((i+1)+ ": R$ ");
+	      preco = ler.nextDouble();
+	      soma+=preco;
+	      if (preco==0){
+	        break;
+	      }
+	    }
+	    
+	    System.out.printf("O valor da sua compra foi de: R$ %.2f ",soma,"\n");
+	    System.out.print("\nValor a receber: R$ ");
+	    valRecebido = ler.nextDouble();
+
+	    troco = valRecebido-soma;
+
+	    System.out.printf("Seu troco é de: R$ %.2f ", troco);
+	    
+	ler.close();
+
+	}
+
+}
